@@ -46,13 +46,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "The goal of our project is stock portfolio management through the use of Artificial Intelligence to optimize the" 
-     "portfolio based on risk-return profiles. The risk-return profiles refer to the trade-off between potential returns" 
-     "and risk of losing money. The data used consists of historical stock prices, average returns, and the covariance matrix" 
-     "of the stocks. By using the date, we will develop a simulated annealing algorithm model to construct and optimize the portfolios" 
-     "based on the given risk and return profiles. The performance and success of the model(s) will be evaluated by the Sharpe ratio, which" 
-     "evaluates the risk-adjusted returns and expected returns. A ratio above 1.0 on Sharpe indicates good performance, and anything under" 
-     "indicates it is suboptimal. (115) "
+    "The goal of our project is stock portfolio management through the use of Artificial Intelligence to optimize the portfolio based on risk-return profiles. The risk-return profiles refer to the trade-off between potential returns and the risk of losing money. The data used consists of historical stock prices, average returns, and the covariance matrix of the stocks. By using the data, we will develop a simulated annealing algorithm model to construct and optimize the portfolios based on the given risk and return profiles. The performance and success of the model(s) will be evaluated by the Sharpe ratio, which evaluates the risk-adjusted returns and expected returns. A ratio above 1.0 on Sharpe indicates good performance, and anything under indicates it is suboptimal."
    ]
   },
   {
